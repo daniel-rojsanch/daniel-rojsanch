@@ -11,7 +11,6 @@
 ![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=MySql&logoColor=white&color=orange)
 ![](https://img.shields.io/badge/Tools-LaTeX-informational?style=flat&logo=LaTeX&logoColor=white&color=orange)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=orange)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=orange)
 ![](https://img.shields.io/badge/Tools-Markdown-informational?style=flat&logo=markdown&logoColor=white&color=orange)
 
 
