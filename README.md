@@ -16,7 +16,7 @@
 
 
 <p align="center">
-<a href="https://github.com/daniel-rojsanch/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-rojsanch&layout=compact&theme=buefy&hide_border=true" /></a>
+<a href="https://github.com/daniel-rojsanch/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-rojsanch&layout=compact&theme=dracula&hide_border=true" /></a>
 </p>
 
 
@@ -25,5 +25,5 @@
 
 
 
-[![Daniel-rojsanch's github activity graph](https://activity-graph.herokuapp.com/graph?username=daniel-rojsanch&theme=minimal)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Daniel-rojsanch's github activity graph](https://activity-graph.herokuapp.com/graph?username=daniel-rojsanch&theme=redical&radius=4)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
