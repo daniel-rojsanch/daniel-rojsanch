@@ -1,8 +1,9 @@
-<p align="center"><a href=""><img width="60%" src="images/dani.png" /></a></p>
+## Hi!, I'm Daniel
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lato&size=30&color=3954F7&background=B5D8FF00&lines=Welcome!!;Math%2C+Programming%2C+Music+....)](https://git.io/typing-svg)
 
 
-
-## 🔧 Technologies & Tools
+### 🔧 Technologies & Tools
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=orange)
 ![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=r&logoColor=white&color=orange)
