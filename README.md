@@ -24,5 +24,5 @@
 
 
 
-[![Daniel's github activity graph](https://activity-graph.herokuapp.com/graph?username=daniel-rojsanch&theme=noctis-minimus)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Daniel-rojsanch's github activity graph](https://activity-graph.herokuapp.com/graph?username=daniel-rojsanch&theme=minimal)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
