@@ -1,6 +1,11 @@
-## Hi!, I'm Daniel
+<h1 align="center">
+ Hi!, I'm Daniel
+</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lato&size=30&color=3954F7&background=B5D8FF00&lines=Welcome!!;Math%2C+Programming%2C+Music+....)](https://git.io/typing-svg)
+<p align="center"><a href="####" target="_blank"><img alt="telegram" src="https://img.shields.io/badge/telegram-%230077B5.svg?&style=for-the-badge&logo=TELEGRAM&logoColor=white" /></a> <a href="########" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="########" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lato&size=30&color=000000&background=B5D8FF00&lines=Welcome!!;Math%2C+Programming%2C+Music+....)](https://git.io/typing-svg)
 
 
 ### 🔧 Technologies & Tools
@@ -18,11 +23,6 @@
 <p align="center">
 <a href="https://github.com/daniel-rojsanch/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-rojsanch&layout=compact&theme=dracula&hide_border=true" /></a>
 </p>
-
-
-<p align="center"><a href="####" target="_blank"><img alt="telegram" src="https://img.shields.io/badge/telegram-%230077B5.svg?&style=for-the-badge&logo=TELEGRAM&logoColor=white" /></a> <a href="########" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="########" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
-
 
 
 [![Daniel-rojsanch's github activity graph](https://activity-graph.herokuapp.com/graph?username=daniel-rojsanch&theme=redical&radius=4)](https://github.com/ashutosh00710/github-readme-activity-graph)
