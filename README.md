@@ -1,7 +1,6 @@
 <h1 align="center">
- Hi!, I'm Daniel
+  <img src="images/name.svg" alt="" />
 </h1>
-
 <p align="center"><a href="####" target="_blank"><img alt="telegram" src="https://img.shields.io/badge/telegram-%230077B5.svg?&style=for-the-badge&logo=TELEGRAM&logoColor=white" /></a> <a href="########" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="########" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
