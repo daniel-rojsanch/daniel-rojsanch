@@ -21,7 +21,7 @@
 
 
 <p align="center">
-<a href="https://github.com/daniel-rojsanch/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-rojsanch&layout=compact&theme=dracula&hide_border=true" /></a>
+<a href="https://github.com/daniel-rojsanch/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-rojsanch&&hide=javascript,html,css&layout=compact&theme=dracula&hide_border=true" /></a>
 </p>
 
 
