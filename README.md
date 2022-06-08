@@ -17,8 +17,8 @@
 
 |||
 |---|---|
-|<a href="https://github.com/daniel-rojsanch/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-rojsanch&&hide=javascript,html,css&layout=compact&theme=dracula&hide_border=true" /></a>| [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniel-rojsanch&show_icons=true&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats) |
+|<a href="https://github.com/daniel-rojsanch/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-rojsanch&&hide=javascript,html,css&layout=compact&theme=buefy&hide_border=false" /></a>| [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniel-rojsanch&show_icons=true&theme=buefy&layout=compact)](https://github.com/anuraghazra/github-readme-stats) |
 
 
-[![Daniel-rojsanch's github activity graph](https://activity-graph.herokuapp.com/graph?username=daniel-rojsanch&theme=redical&radius=4)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Daniel-rojsanch's github activity graph](https://activity-graph.herokuapp.com/graph?username=daniel-rojsanch&theme=minimal&radius=4)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
