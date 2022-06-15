@@ -20,5 +20,5 @@
 |---|---|
 
 
-[![Daniel-rojsanch's github activity graph](https://activity-graph.herokuapp.com/graph?username=daniel-rojsanch&theme=dracula&radius=4)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Daniel-rojsanch's github activity graph](https://activity-graph.herokuapp.com/graph?username=daniel-rojsanch&theme=rogue&radius=4)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
