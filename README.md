@@ -5,6 +5,8 @@
   [![Telegram](https://img.shields.io/badge/-@daniel__rojsanch-blue?style=flat-square&logo=telegram&logoColor=white)](https://t.me/daniel_rojsanch)
   [![Linkdin](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=linkedin)]()
   [![Linkdin](https://img.shields.io/badge/-@daniel__rojsanch-blue?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/daniel_rojsanch)
+  [![Reddit](https://img.shields.io/badge/-@daniel__rojsanch-orange?style=flat-square&logo=reddit&logoColor=white)](https://twitter.com/daniel_rojsanch)
+
   
   ![Linux](https://img.shields.io/badge/Manjaro%20Linux-black?style=flat-square&logo=manjaro)
   ![VS Code](https://img.shields.io/badge/-VS%20Code-2E86C1?style=flat-square&logo=visual-studio-code)
