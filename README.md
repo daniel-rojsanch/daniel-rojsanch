@@ -29,12 +29,13 @@
   ![Markdown](https://img.shields.io/badge/Markdown-black?style=flat-square&logo=Markdown)
 
 ### 🚀 Top repos
-| [![Readme Card 1](https://github-readme-stats.vercel.app/api/pin/?username=daniel-rojsanch&repo=my-shinyApps&theme=vue)](######)  | [![Readme Card 2](https://github-readme-stats.vercel.app/api/pin/?username=daniel-rojsanch&repo=Statistics-with-R&theme=flag-india)](#####)  | [![Readme Card 3](https://github-readme-stats.vercel.app/api/pin/?username=daniel-rojsanch&repo=GraficosR&theme=buefy)](#####)   |
+| [![Readme Card 1](https://github-readme-stats.vercel.app/api/pin/?username=daniel-rojsanch&repo=my-shinyApps&theme=vue)](https://github.com/daniel-rojsanch/my-shinyApps)  | [![Readme Card 2](https://github-readme-stats.vercel.app/api/pin/?username=daniel-rojsanch&repo=Statistics-with-R&theme=flag-india)](https://github.com/daniel-rojsanch/Statistics-with-R)  | [![Readme Card 3](https://github-readme-stats.vercel.app/api/pin/?username=daniel-rojsanch&repo=GraficosR&theme=buefy)](https://github.com/daniel-rojsanch/GraficosR)   |
 |---|---|----|
 
 
+
 ### ❤️ My Stats
-|<a href="https://github.com/daniel-rojsanch/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-rojsanch&&hide=javascript,html,css&layout=compact&theme=buefy&hide_border=false" /></a>| [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniel-rojsanch&show_icons=true&theme=buefy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)|
+|  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-rojsanch&&hide=javascript,html,css&layout=compact&theme=buefy)](https://github.com/anuraghazra/github-readme-stats) | [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniel-rojsanch&show_icons=true&theme=buefy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)|
 |---|---|
 
 
