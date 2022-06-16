@@ -1,12 +1,16 @@
+<!--
 <h1 align="center">
   <img src="images/name.svg" alt="" />
-  
+</h1>
+-->
+
+## ✏️ Hi!, I'm Daniel Rojas Sanchez
   [![Gmail](https://img.shields.io/badge/drojass003@gmail.com-black?style=flat-square&logo=gmail)]()
   [![Telegram](https://img.shields.io/badge/-@daniel__rojsanch-blue?style=flat-square&logo=telegram&logoColor=white)](https://t.me/daniel_rojsanch)
   [![Linkdin](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=linkedin)]()
   [![Linkdin](https://img.shields.io/badge/-@daniel__rojsanch-blue?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/daniel_rojsanch)
   [![Duolingo](https://img.shields.io/badge/-Duo-28B463?style=flat-square&logo=duolingo&logoColor=white)](https://www.duolingo.com/profile/daniel-rojsanch)
-
+### 🛠️Tools
   ![GNU/Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
   ![Linux](https://img.shields.io/badge/Manjaro-45B39D?style=flat-square&logo=manjaro&logoColor=000b41)
   ![Linux](https://img.shields.io/badge/Ubuntu-DC7633?style=flat-square&logo=ubuntu&logoColor=white)
@@ -20,12 +24,9 @@
   ![Jupyter](https://img.shields.io/badge/jupyter%20Lab-D35400?style=flat-square&logo=jupyter&logoColor=white)
   ![Jupyter-Books](https://img.shields.io/badge/jupyter%20Books-D35400?style=flat-square&logo=gitbook&logoColor=white)
   ![LaTeX](https://img.shields.io/badge/LaTeX-28B463?style=flat-square&logo=LaTeX)
-  ![Atom](https://img.shields.io/badge/Atom-FCC624?style=flat-square&logo=atom)
   ![Julia](https://img.shields.io/badge/Julia-7D3C98?style=flat-square&logo=Julia&logoColor=A9DFBF)
   ![Rstudio](https://img.shields.io/badge/R%20Studio-blue?style=flat-square&logo=rstudio)
   ![Markdown](https://img.shields.io/badge/Markdown-black?style=flat-square&logo=Markdown)
-</h1>
-
 
 ### 🚀 Top repos
 | [![Readme Card 1](https://github-readme-stats.vercel.app/api/pin/?username=daniel-rojsanch&repo=my-shinyApps&theme=vue)](######)  | [![Readme Card 2](https://github-readme-stats.vercel.app/api/pin/?username=daniel-rojsanch&repo=Statistics-with-R&theme=flag-india)](#####)  | [![Readme Card 3](https://github-readme-stats.vercel.app/api/pin/?username=daniel-rojsanch&repo=GraficosR&theme=buefy)](#####)   |
