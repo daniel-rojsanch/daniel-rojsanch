@@ -39,5 +39,5 @@
 |---|---|
 
 
-[![Daniel-rojsanch's github activity graph](https://activity-graph.herokuapp.com/graph?username=daniel-rojsanch&theme=minimal&radius=4)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Daniel-rojsanch's github activity graph](https://activity-graph.herokuapp.com/graph?username=daniel-rojsanch&radius=4&bg_color=ffffff&color=EC7063&line=BB8FCE&point=73C6B6&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
