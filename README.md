@@ -29,7 +29,7 @@
   ![Markdown](https://img.shields.io/badge/Markdown-black?style=flat-square&logo=Markdown)
 
 ### 🚀 Top repos
-| [![Readme Card 1](https://github-readme-stats.vercel.app/api/pin/?username=daniel-rojsanch&repo=my-shinyApps&theme=vue)](https://github.com/daniel-rojsanch/my-shinyApps)  | [![Readme Card 2](https://github-readme-stats.vercel.app/api/pin/?username=daniel-rojsanch&repo=Statistics-with-R&theme=flag-india)](https://github.com/daniel-rojsanch/Statistics-with-R)  | [![Readme Card 3](https://github-readme-stats.vercel.app/api/pin/?username=daniel-rojsanch&repo=GraficosR&theme=buefy)](https://github.com/daniel-rojsanch/GraficosR)   |
+| [![Readme Card 1](https://github-readme-stats.vercel.app/api/pin/?username=daniel-rojsanch&repo=my-shinyApps&theme=vue&show_icons=true)](https://github.com/daniel-rojsanch/my-shinyApps)  | [![Readme Card 2](https://github-readme-stats.vercel.app/api/pin/?username=daniel-rojsanch&repo=Statistics-with-R&theme=flag-india&show_icons=true)](https://github.com/daniel-rojsanch/Statistics-with-R)  | [![Readme Card 3](https://github-readme-stats.vercel.app/api/pin/?username=daniel-rojsanch&repo=GraficosR&theme=buefy&show_icons=true)](https://github.com/daniel-rojsanch/GraficosR)   |
 |---|---|----|
 
 
