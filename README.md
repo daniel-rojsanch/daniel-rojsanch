@@ -23,7 +23,7 @@
 
 ### 🚀 Top repos
 
-| [![Readme Card 1](https://github-readme-stats.vercel.app/api/pin/?username=daniel-rojsanch&repo=my-shinyApps&theme=flag-india&show_icons=true)](https://github.com/daniel-rojsanch/my-shinyApps)  | [![Readme Card 2](https://github-readme-stats.vercel.app/api/pin/?username=daniel-rojsanch&repo=Statistics-with-R&theme=flag-india&show_icons=true)](https://github.com/daniel-rojsanch/Statistics-with-R) |
+| [![Readme Card 1](https://github-readme-stats.vercel.app/api/pin/?username=daniel-rojsanch&repo=my-shinyApps&theme=buefy&show_icons=true)](https://github.com/daniel-rojsanch/my-shinyApps)  | [![Readme Card 2](https://github-readme-stats.vercel.app/api/pin/?username=daniel-rojsanch&repo=Statistics-with-R&theme=flag-india&show_icons=true)](https://github.com/daniel-rojsanch/Statistics-with-R) |
 |---|---|
 | [![Readme Card 4](https://github-readme-stats.vercel.app/api/pin/?username=daniel-rojsanch&repo=XfceConf&theme=flag-india&show_icons=true)](https://github.com/daniel-rojsanch/XfceConf)|[![Readme Card 3](https://github-readme-stats.vercel.app/api/pin/?username=daniel-rojsanch&repo=GraficosR&theme=flag-india&show_icons=true)](https://github.com/daniel-rojsanch/GraficosR)|
 
