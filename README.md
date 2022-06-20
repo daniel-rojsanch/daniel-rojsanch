@@ -17,15 +17,15 @@
   ![Jupyter](https://img.shields.io/badge/jupyter%20Lab-D35400?style=flat-square&logo=jupyter&logoColor=white)
   ![Jupyter-Books](https://img.shields.io/badge/jupyter%20Books-D35400?style=flat-square&logo=gitbook&logoColor=white)
   ![LaTeX](https://img.shields.io/badge/LaTeX-28B463?style=flat-square&logo=LaTeX)
-  ![Julia](https://img.shields.io/badge/Julia-7D3C98?style=flat-square&logo=Julia&logoColor=A9DFBF)
-  ![Rstudio](https://img.shields.io/badge/R%20Studio-blue?style=flat-square&logo=rstudio)
+  ![Julia](https://img.shields.io/badge/Julia-7D3C98?style=flat-square&logo=Julia&logoColor=28B463)
+  ![Rstudio](https://img.shields.io/badge/R%20Studio-blue?style=flat-square&logo=rstudio&logoColor=white)
   ![Markdown](https://img.shields.io/badge/Markdown-black?style=flat-square&logo=Markdown)
 
 ### 🚀 Top repos
 
 | [![Readme Card 1](https://github-readme-stats.vercel.app/api/pin/?username=daniel-rojsanch&repo=my-shinyApps&theme=buefy&show_icons=true)](https://github.com/daniel-rojsanch/my-shinyApps)  | [![Readme Card 2](https://github-readme-stats.vercel.app/api/pin/?username=daniel-rojsanch&repo=Statistics-with-R&theme=vue&show_icons=true)](https://github.com/daniel-rojsanch/Statistics-with-R) |
 |---|---|
-| [![Readme Card 3](https://github-readme-stats.vercel.app/api/pin/?username=daniel-rojsanch&repo=XfceConf&theme=vue&show_icons=true)](https://github.com/daniel-rojsanch/XfceConf)|[![Readme Card 4](https://github-readme-stats.vercel.app/api/pin/?username=daniel-rojsanch&repo=GraficosR&theme=buefy&show_icons=true)](https://github.com/daniel-rojsanch/GraficosR)|
+| [![Readme Card 3](https://github-readme-stats.vercel.app/api/pin/?username=daniel-rojsanch&repo=XfceConf&theme=vue&show_icons=true)](https://github.com/daniel-rojsanch/XfceConf)|[![Readme Card 4](https://github-readme-stats.vercel.app/api/pin/?username=daniel-rojsanch&repo=Gallery-R&theme=buefy&show_icons=true)](https://github.com/daniel-rojsanch/GraficosR)|
 
 ### ❤️ My Stats
 |  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-rojsanch&hide=javascript,html&layout=compact&theme=buefy)](https://github.com/anuraghazra/github-readme-stats) | [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniel-rojsanch&hide_border=false&show_icons=true&theme=buefy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)|
