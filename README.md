@@ -28,7 +28,7 @@
 | [![Readme Card 3](https://github-readme-stats.vercel.app/api/pin/?username=daniel-rojsanch&repo=XfceConf&theme=vue&show_icons=true)](https://github.com/daniel-rojsanch/XfceConf)|[![Readme Card 4](https://github-readme-stats.vercel.app/api/pin/?username=daniel-rojsanch&repo=Gallery-R&theme=buefy&show_icons=true)](https://github.com/daniel-rojsanch/GraficosR)|
 
 ### ❤️ My Stats
-|  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-rojsanch&hide=javascript,html&layout=compact&theme=buefy)](https://github.com/anuraghazra/github-readme-stats) | [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniel-rojsanch&hide_border=false&show_icons=true&theme=buefy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)|
+|  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-rojsanch&hide=javascript,html&layout=compact&theme=buefy)](https://github.com/anuraghazra/github-readme-stats) | [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniel-rojsanch&hide_border=false&show_icons=true&theme=vue&layout=compact)](https://github.com/anuraghazra/github-readme-stats)|
 |---|---|
 
 
