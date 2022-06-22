@@ -47,7 +47,7 @@
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" width=35% height=160px src = "https://github-readme-stats.vercel.app/api?username=daniel-rojsanch&hide_border=false&show_icons=true&theme=buefy&layout=compact" />
+  <img align="center" width=35% src = "https://github-readme-stats.vercel.app/api?username=daniel-rojsanch&hide_border=false&show_icons=true&theme=buefy&layout=compact" />
 </a>
 
 
