@@ -23,14 +23,32 @@
 
 ### 🚀 Top repos
 
-| [![Readme Card 1](https://github-readme-stats.vercel.app/api/pin/?username=daniel-rojsanch&repo=my-shinyApps&theme=buefy&show_icons=true)](https://github.com/daniel-rojsanch/my-shinyApps)  | [![Readme Card 2](https://github-readme-stats.vercel.app/api/pin/?username=daniel-rojsanch&repo=Statistics-with-R&theme=vue&show_icons=true)](https://github.com/daniel-rojsanch/Statistics-with-R) |
-|---|---|
-| [![Readme Card 3](https://github-readme-stats.vercel.app/api/pin/?username=daniel-rojsanch&repo=XfceConf&theme=vue&show_icons=true)](https://github.com/daniel-rojsanch/XfceConf)|[![Readme Card 4](https://github-readme-stats.vercel.app/api/pin/?username=daniel-rojsanch&repo=Gallery-R&theme=buefy&show_icons=true)](https://github.com/daniel-rojsanch/GraficosR)|
+<a href="https://github.com/daniel-rojsanch/my-shinyApps">
+  <img align="center" width = 31% src = "https://github-readme-stats.vercel.app/api/pin/?username=daniel-rojsanch&repo=my-shinyApps&theme=buefy&show_icons=true"/>
+</a>
+
+<a href="https://github.com/daniel-rojsanch/Statistics-with-R">
+  <img align="center" width = 31% src = "https://github-readme-stats.vercel.app/api/pin/?username=daniel-rojsanch&repo=Statistics-with-R&theme=buefy&show_icons=true" />
+</a>
+
+<a href="https://github.com/daniel-rojsanch/XfceConf">
+  <img align="center" width = 31% src = "https://github-readme-stats.vercel.app/api/pin/?username=daniel-rojsanch&repo=XfceConf&theme=buefy&show_icons=true" />
+</a>
+
+<a href="https://github.com/daniel-rojsanch/GraficosR">
+  <img align="center" width = 31% src = "https://github-readme-stats.vercel.app/api/pin/?username=daniel-rojsanch&repo=Gallery-R&theme=buefy&show_icons=true" />
+</a>
+
 
 ### ❤️ My Stats
-|  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-rojsanch&hide=javascript,html&layout=compact&theme=buefy)](https://github.com/anuraghazra/github-readme-stats) | [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniel-rojsanch&hide_border=false&show_icons=true&theme=vue&layout=compact)](https://github.com/anuraghazra/github-readme-stats)|
-|---|---|
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-rojsanch&hide=javascript,html&layout=compact&theme=buefy" />
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" width = 41.5% src = "https://github-readme-stats.vercel.app/api?username=daniel-rojsanch&hide_border=false&show_icons=true&theme=buefy&layout=compact" />
+</a>
 
 
 [![Daniel-rojsanch's github activity graph](https://activity-graph.herokuapp.com/graph?username=daniel-rojsanch&radius=4&bg_color=ffffff&color=EC7063&line=BB8FCE&point=73C6B6&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
