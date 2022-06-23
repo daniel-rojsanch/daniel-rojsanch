@@ -43,7 +43,7 @@
 ### ❤️ My Stats
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" width=35% height=140px src = "https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-rojsanch&hide=javascript,html&layout=compact&theme=buefy" />
+  <img align="center" width=35% height=140px src = "https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-rojsanch&hide=javascript,html&layout=compact&theme=vue" />
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
