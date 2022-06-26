@@ -11,7 +11,6 @@
   ![Git](https://img.shields.io/badge/-Git-181717?style=flat-square&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
   ![MySQL](https://img.shields.io/badge/-MySQL-D5D8DC?style=flat-square&logo=mysql)
-  ![Python](https://img.shields.io/badge/-Python-2471A3?style=flat-square&logo=Python&logoColor=F7DC6F)
   ![Gimp](https://img.shields.io/badge/gimp-5C5543?style=flat-square&logo=gimp&logoColor=white)
   ![R](https://img.shields.io/badge/R%20Project-2E86C1?style=flat-square&logo=R)
   ![Jupyter](https://img.shields.io/badge/jupyter%20Lab-D35400?style=flat-square&logo=jupyter&logoColor=white)
