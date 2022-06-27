@@ -20,6 +20,13 @@
   ![Rstudio](https://img.shields.io/badge/R%20Studio-blue?style=flat-square&logo=rstudio&logoColor=white)
   ![Markdown](https://img.shields.io/badge/Markdown-black?style=flat-square&logo=Markdown)
 
+### 📙 My Books
+
+<a href="https://daniel-rojsanch.github.io/50-Ejemplos-Graficos-con-R/intro.html">
+  <img align="center" width = 40% src = "https://github-readme-stats.vercel.app/api/pin/?username=daniel-rojsanch&repo=50-Ejemplos-Graficos-con-R&theme=buefy&show_icons=true"/>
+</a>
+
+
 ### 🚀 Top repos
 
 <a href="https://github.com/daniel-rojsanch/my-shinyApps">
@@ -42,7 +49,7 @@
 ### ❤️ My Stats
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" width=35% height=140px src = "https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-rojsanch&hide=javascript,html&layout=compact&theme=buefy" />
+  <img align="center" width=35% height=140px src = "https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-rojsanch&exclude_repo=50-Ejemplos-Graficos-con-R&hide=javascript,html,css&layout=compact&theme=buefy" />
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
