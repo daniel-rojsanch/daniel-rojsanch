@@ -23,7 +23,7 @@
 ### 📙 My Books
 
 <a href="https://daniel-rojsanch.github.io/50-Ejemplos-Graficos-con-R/intro.html">
-  <img align="center" width = 40% src = "https://github-readme-stats.vercel.app/api/pin/?username=daniel-rojsanch&repo=50-Ejemplos-Graficos-con-R&theme=tokyonight&show_icons=true"/>
+  <img align="center" width = 40% src = "https://github-readme-stats.vercel.app/api/pin/?username=daniel-rojsanch&repo=50-Ejemplos-Graficos-con-R&theme=nightowl&show_icons=true"/>
 </a>
 
 
@@ -49,11 +49,11 @@
 ### ❤️ My Stats
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" width=35% height=140px src = "https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-rojsanch&exclude_repo=50-Ejemplos-Graficos-con-R&hide=javascript,html,css&layout=compact&theme=tokyonight" />
+  <img align="center" width=35% height=140px src = "https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-rojsanch&exclude_repo=50-Ejemplos-Graficos-con-R&hide=javascript,html,css&layout=compact&theme=nightowl" />
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" width=41.5% src = "https://github-readme-stats.vercel.app/api?username=daniel-rojsanch&hide_border=false&show_icons=true&theme=tokyonight&layout=compact&&hide=contribs" />
+  <img align="center" width=41.5% src = "https://github-readme-stats.vercel.app/api?username=daniel-rojsanch&hide_border=false&show_icons=true&theme=nightowl&layout=compact&&hide=contribs" />
 </a>
 
 
