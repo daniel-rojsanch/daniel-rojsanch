@@ -23,7 +23,7 @@
 ### 📙 My Books
 
 <a href="https://daniel-rojsanch.github.io/50-Ejemplos-Graficos-con-R/intro.html">
-  <img align="center" width = 40% src = "https://github-readme-stats.vercel.app/api/pin/?username=daniel-rojsanch&repo=50-Ejemplos-Graficos-con-R&theme=codeSTACKr&show_icons=true"/>
+  <img align="center" width = 40% src = "https://github-readme-stats.vercel.app/api/pin/?username=daniel-rojsanch&repo=50-Ejemplos-Graficos-con-R&theme=ayu-mirage&show_icons=true"/>
 </a>
 
 
