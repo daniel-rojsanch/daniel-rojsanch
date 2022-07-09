@@ -36,7 +36,6 @@
 <a href="https://github.com/daniel-rojsanch/Statistics-with-R">
   <img align="center" width = 40% src = "https://github-readme-stats.vercel.app/api/pin/?username=daniel-rojsanch&repo=Statistics-with-R&theme=codeSTACKr&show_icons=true" />
 </a>
-
 <a href="https://github.com/daniel-rojsanch/XfceConf">
   <img align="center" width = 40% src = "https://github-readme-stats.vercel.app/api/pin/?username=daniel-rojsanch&repo=XfceConf&theme=codeSTACKr&show_icons=true" />
 </a>
@@ -49,7 +48,7 @@
 ### ❤️ My Stats
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" width=35% height=140px src = "https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-rojsanch&exclude_repo=50-Ejemplos-Graficos-con-R&hide=javascript,html,css&layout=compact&theme=codeSTACKr" />
+  <img align="center" width=35% height=140px src = "https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-rojsanch&exclude_repo=50-Ejemplos-Graficos-con-R&hide=javascript,html,css,shell&layout=compact&theme=codeSTACKr" />
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
