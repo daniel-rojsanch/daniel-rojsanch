@@ -23,36 +23,36 @@
 ### 📙 My Books
 
 <a href="https://daniel-rojsanch.github.io/50-Ejemplos-Graficos-con-R/intro.html">
-  <img align="center" width = 40% src = "https://github-readme-stats.vercel.app/api/pin/?username=daniel-rojsanch&repo=50-Ejemplos-Graficos-con-R&theme=ayu-mirage&show_icons=true"/>
+  <img align="center" width = 40% src = "https://github-readme-stats.vercel.app/api/pin/?username=daniel-rojsanch&repo=50-Ejemplos-Graficos-con-R&theme=algolia&show_icons=true"/>
 </a>
 
 
 ### 🚀 Top repos
 
 <a href="https://github.com/daniel-rojsanch/my-shinyApps">
-  <img align="center" width = 40% src = "https://github-readme-stats.vercel.app/api/pin/?username=daniel-rojsanch&repo=my-shinyApps&theme=codeSTACKr&show_icons=true"/>
+  <img align="center" width = 40% src = "https://github-readme-stats.vercel.app/api/pin/?username=daniel-rojsanch&repo=my-shinyApps&theme=algolia&show_icons=true"/>
 </a>
 
 <a href="https://github.com/daniel-rojsanch/Statistics-with-R">
-  <img align="center" width = 40% src = "https://github-readme-stats.vercel.app/api/pin/?username=daniel-rojsanch&repo=Statistics-with-R&theme=codeSTACKr&show_icons=true" />
+  <img align="center" width = 40% src = "https://github-readme-stats.vercel.app/api/pin/?username=daniel-rojsanch&repo=Statistics-with-R&theme=algolia&show_icons=true" />
 </a>
 <a href="https://github.com/daniel-rojsanch/XfceConf">
-  <img align="center" width = 40% src = "https://github-readme-stats.vercel.app/api/pin/?username=daniel-rojsanch&repo=XfceConf&theme=codeSTACKr&show_icons=true" />
+  <img align="center" width = 40% src = "https://github-readme-stats.vercel.app/api/pin/?username=daniel-rojsanch&repo=XfceConf&theme=algolia&show_icons=true" />
 </a>
 
 <a href="https://github.com/daniel-rojsanch/GraficosR">
-  <img align="center" width = 40% src = "https://github-readme-stats.vercel.app/api/pin/?username=daniel-rojsanch&repo=Gallery-R&theme=codeSTACKr&show_icons=true" />
+  <img align="center" width = 40% src = "https://github-readme-stats.vercel.app/api/pin/?username=daniel-rojsanch&repo=Gallery-R&theme=algolia&show_icons=true" />
 </a>
 
 
 ### ❤️ My Stats
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" width=35% height=140px src = "https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-rojsanch&exclude_repo=50-Ejemplos-Graficos-con-R&hide=javascript,html,css,shell&layout=compact&theme=codeSTACKr" />
+  <img align="center" width=35% height=140px src = "https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-rojsanch&exclude_repo=50-Ejemplos-Graficos-con-R&hide=javascript,html,css,shell&layout=compact&theme=algolia" />
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" width=41.5% src = "https://github-readme-stats.vercel.app/api?username=daniel-rojsanch&hide_border=false&show_icons=true&theme=codeSTACKr&layout=compact&&hide=contribs" />
+  <img align="center" width=41.5% src = "https://github-readme-stats.vercel.app/api?username=daniel-rojsanch&hide_border=false&show_icons=true&theme=algolia&layout=compact&&hide=contribs" />
 </a>
 
 
