@@ -12,12 +12,11 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
   ![MySQL](https://img.shields.io/badge/-MySQL-D5D8DC?style=flat-square&logo=mysql)
   ![Gimp](https://img.shields.io/badge/gimp-5C5543?style=flat-square&logo=gimp&logoColor=white)
-  ![R](https://img.shields.io/badge/R%20Project-2E86C1?style=flat-square&logo=R)
+  ![R](https://img.shields.io/badge/R-2E86C1?style=flat-square&logo=R)
   ![Jupyter](https://img.shields.io/badge/jupyter%20Lab-D35400?style=flat-square&logo=jupyter&logoColor=white)
   ![Jupyter-Books](https://img.shields.io/badge/jupyter%20Books-D35400?style=flat-square&logo=gitbook&logoColor=white)
   ![LaTeX](https://img.shields.io/badge/LaTeX-28B463?style=flat-square&logo=LaTeX)
-  ![Julia](https://img.shields.io/badge/Julia-7D3C98?style=flat-square&logo=Julia&logoColor=28B463)
-  ![Rstudio](https://img.shields.io/badge/R%20Studio-blue?style=flat-square&logo=rstudio&logoColor=white)
+  ![Julia](https://img.shields.io/badge/Julia-E8EAF6?style=flat-square&logo=Julia&logoColor=28B463)
   ![Markdown](https://img.shields.io/badge/Markdown-black?style=flat-square&logo=Markdown)
 
 ### 📙 My Books
