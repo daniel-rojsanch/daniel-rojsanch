@@ -54,5 +54,6 @@
   <img align="center" width=41.5% src = "https://github-readme-stats.vercel.app/api?username=daniel-rojsanch&hide_border=false&show_icons=true&theme=algolia&layout=compact&&hide=contribs" />
 </a>
 
+> *NOTE: Top Languages does not indicate my skill level or anything like that; it's a GitHub metric to determine which languages have the most code on GitHub. It's a new feature of github-readme-stats.*
 
 [![Daniel-rojsanch's github activity graph](https://activity-graph.herokuapp.com/graph?username=daniel-rojsanch&radius=8&theme=redical)](https://github.com/ashutosh00710/github-readme-activity-graph)
