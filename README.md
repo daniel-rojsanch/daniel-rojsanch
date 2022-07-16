@@ -56,4 +56,5 @@
 
 > *NOTE: Top Languages does not indicate my skill level or anything like that; it's a GitHub metric to determine which languages have the most code on GitHub. It's a new feature of github-readme-stats.*
 
-[![Daniel-rojsanch's github activity graph](https://activity-graph.herokuapp.com/graph?username=daniel-rojsanch&radius=8&theme=redical)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![](./profile-3d-contrib/profile-season-animate.svg)
+
