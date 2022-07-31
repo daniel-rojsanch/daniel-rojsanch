@@ -24,6 +24,9 @@
 <a href="https://daniel-rojsanch.github.io/50-Ejemplos-Graficos-con-R/intro.html">
   <img align="center" width = 40% src = "https://github-readme-stats.vercel.app/api/pin/?username=daniel-rojsanch&repo=50-Ejemplos-Graficos-con-R&theme=algolia&show_icons=true"/>
 </a>
+<a href="https://daniel-rojsanch.github.io/Statistics-with-Julia/intro.html">
+  <img align="center" width = 40% src = "https://github-readme-stats.vercel.app/api/pin/?username=daniel-rojsanch&repo=Statistics-with-Julia&theme=algolia&show_icons=true"/>
+</a>
 
 
 ### 🚀 Top repos
