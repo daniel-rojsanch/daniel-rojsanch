@@ -49,13 +49,9 @@
 
 ### ❤️ My Stats
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" width=35% height=140px src = "https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-rojsanch&exclude_repo=50-Ejemplos-Graficos-con-R&hide=javascript,html,css,shell&layout=compact&theme=algolia" />
-</a>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" width=41.5% src = "https://github-readme-stats.vercel.app/api?username=daniel-rojsanch&hide_border=false&show_icons=true&theme=algolia&layout=compact&&hide=contribs" />
-</a>
+| ![](https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-rojsanch&exclude_repo=50-Ejemplos-Graficos-con-R&hide=javascript,html,css,shell&layout=compact&theme=gotham) | ![](https://github-readme-stats.vercel.app/api?username=daniel-rojsanch&hide_border=false&show_icons=true&theme=gotham&layout=compact&hide=contribs)|
+|-----------|---------------|
 
 > *NOTE: Top Languages does not indicate my skill level or anything like that; it's a GitHub metric to determine which languages have the most code on GitHub. It's a new feature of github-readme-stats.*
 
