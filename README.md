@@ -52,9 +52,9 @@
 
 ### My Courses
 
-|[![](https://github-readme-stats.vercel.app/api/pin/?username=daniel-rojsanch&repo=Introducci-n-a-Data-Science-Programaci-n-Estad-stica-con-R&theme=buefy&show_icons=true)](https://coursera.org/share/8f06b11cef8256004cd12e5530af8266)|[![](https://github-readme-stats.vercel.app/api/pin/?username=daniel-rojsanch&repo=Statistics-with-Julia&theme=buefy&show_icons=true)](https://daniel-rojsanch.github.io/Statistics-with-Julia/intro.html)|
+|||
 |---|---|
-
+|[![1curso](images/cursos_R.png)](https://coursera.org/share/8f06b11cef8256004cd12e5530af8266)|[![1curso](images/cursos_R.png)](https://coursera.org/share/8f06b11cef8256004cd12e5530af8266)|
 
 <!--[](./profile-3d-contrib/profile-season-animate.svg)-->
 
