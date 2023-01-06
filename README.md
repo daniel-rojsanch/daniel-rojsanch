@@ -24,6 +24,7 @@
 |[![](https://github-readme-stats.vercel.app/api/pin/?username=daniel-rojsanch&repo=50-Ejemplos-Graficos-con-R&theme=buefy&show_icons=true)](https://daniel-rojsanch.github.io/50-Ejemplos-Graficos-con-R/intro.html)|[![](https://github-readme-stats.vercel.app/api/pin/?username=daniel-rojsanch&repo=Statistics-with-Julia&theme=buefy&show_icons=true)](https://daniel-rojsanch.github.io/Statistics-with-Julia/intro.html)|
 |---|---|
 
+
 ### 🚀 Top repos
 
 <a href="https://github.com/daniel-rojsanch/my-shinyApps">
@@ -49,6 +50,10 @@
 |-----------|---------------|
 > *NOTE: Top Languages does not indicate my skill level or anything like that; it's a GitHub metric to determine which languages have the most code on GitHub. It's a new feature of github-readme-stats.*
 
+### My Courses
+
+|[![](https://github-readme-stats.vercel.app/api/pin/?username=daniel-rojsanch&repo=Introducci-n-a-Data-Science-Programaci-n-Estad-stica-con-R&theme=buefy&show_icons=true)](https://coursera.org/share/8f06b11cef8256004cd12e5530af8266)|[![](https://github-readme-stats.vercel.app/api/pin/?username=daniel-rojsanch&repo=Statistics-with-Julia&theme=buefy&show_icons=true)](https://daniel-rojsanch.github.io/Statistics-with-Julia/intro.html)|
+|---|---|
 
 
 <!--[](./profile-3d-contrib/profile-season-animate.svg)-->
