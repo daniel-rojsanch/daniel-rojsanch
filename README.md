@@ -21,32 +21,22 @@
 
 ### 📙 My Books
 
-|[![](https://github-readme-stats.vercel.app/api/pin/?username=daniel-rojsanch&repo=50-Ejemplos-Graficos-con-R&theme=buefy&show_icons=true)](https://daniel-rojsanch.github.io/50-Ejemplos-Graficos-con-R/intro.html)|[![](https://github-readme-stats.vercel.app/api/pin/?username=daniel-rojsanch&repo=Statistics-with-Julia&theme=buefy&show_icons=true)](https://daniel-rojsanch.github.io/Statistics-with-Julia/intro.html)|
+|[![](https://github-readme-stats.vercel.app/api/pin/?username=daniel-rojsanch&repo=50-Ejemplos-Graficos-con-R&theme=vue-dark&show_icons=true)](https://daniel-rojsanch.github.io/50-Ejemplos-Graficos-con-R/intro.html)|[![](https://github-readme-stats.vercel.app/api/pin/?username=daniel-rojsanch&repo=Statistics-with-Julia&theme=vue-dark&show_icons=true)](https://daniel-rojsanch.github.io/Statistics-with-Julia/intro.html)|
 |---|---|
 
 
 ### 🚀 Top repos
 
-<a href="https://github.com/daniel-rojsanch/my-shinyApps">
-  <img align="center" width = 40% src = "https://github-readme-stats.vercel.app/api/pin/?username=daniel-rojsanch&repo=my-shinyApps&theme=buefy&show_icons=true"/>
-</a>
+|[![](https://github-readme-stats.vercel.app/api/pin/?username=daniel-rojsanch&repo=my-shinyApps&theme=vue-dark&show_icons=true)](https://github.com/daniel-rojsanch/my-shinyApps)  | [![](https://github-readme-stats.vercel.app/api/pin/?username=daniel-rojsanch&repo=Statistics-with-R&theme=vue-dark&show_icons=true)](https://github.com/daniel-rojsanch/Statistics-with-R) |
+|--------------|-----------|
+| [![](https://github-readme-stats.vercel.app/api/pin/?username=daniel-rojsanch&repo=XfceConf&theme=vue-dark&show_icons=true)](https://github.com/daniel-rojsanch/XfceConf) | [![](https://github-readme-stats.vercel.app/api/pin/?username=daniel-rojsanch&repo=Gallery-R&theme=vue-dark&show_icons=true)](https://github.com/daniel-rojsanch/GraficosR) |
 
-<a href="https://github.com/daniel-rojsanch/Statistics-with-R">
-  <img align="center" width = 40% src = "https://github-readme-stats.vercel.app/api/pin/?username=daniel-rojsanch&repo=Statistics-with-R&theme=buefy&show_icons=true" />
-</a>
-<a href="https://github.com/daniel-rojsanch/XfceConf">
-  <img align="center" width = 40% src = "https://github-readme-stats.vercel.app/api/pin/?username=daniel-rojsanch&repo=XfceConf&theme=buefy&show_icons=true" />
-</a>
-
-<a href="https://github.com/daniel-rojsanch/GraficosR">
-  <img align="center" width = 40% src = "https://github-readme-stats.vercel.app/api/pin/?username=daniel-rojsanch&repo=Gallery-R&theme=buefy&show_icons=true" />
-</a>
 
 
 ### :bar_chart: My Stats
 
 
-| [![](https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-rojsanch&hide=javascript,html,css,shell&layout=compact&theme=buefy&exclude_repo=50-Ejemplos-Graficos-con-R,Statistics-with-Julia)](https://github.com/anuraghazra/github-readme-stats) | [![](https://github-readme-stats.vercel.app/api?username=daniel-rojsanch&hide_border=false&show_icons=true&theme=buefy&layout=compact&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)|
+| [![](https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-rojsanch&hide=javascript,html,css,shell&layout=compact&theme=vue-dark&exclude_repo=50-Ejemplos-Graficos-con-R,Statistics-with-Julia)](https://github.com/anuraghazra/github-readme-stats) | [![](https://github-readme-stats.vercel.app/api?username=daniel-rojsanch&hide_border=false&show_icons=true&theme=vue-dark&layout=compact&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)|
 |-----------|---------------|
 > *NOTE: Top Languages does not indicate my skill level or anything like that; it's a GitHub metric to determine which languages have the most code on GitHub. It's a new feature of github-readme-stats.*
 
