@@ -21,7 +21,7 @@
 
 ### 📙 My Books
 
-|[![](https://github-readme-stats.vercel.app/api/pin/?username=daniel-rojsanch&repo=50-Ejemplos-Graficos-con-R&theme=vue-dark&show_icons=true)](https://daniel-rojsanch.github.io/50-Ejemplos-Graficos-con-R/intro.html)|[![](https://github-readme-stats.vercel.app/api/pin/?username=daniel-rojsanch&repo=Statistics-with-Julia&theme=vue-dark&show_icons=true)](https://daniel-rojsanch.github.io/Statistics-with-Julia/intro.html)|
+|[![](https://github-readme-stats-goku.vercel.app/api/pin/?username=daniel-rojsanch&repo=50-Ejemplos-Graficos-con-R&theme=vue-dark&show_icons=true)](https://daniel-rojsanch.github.io/50-Ejemplos-Graficos-con-R/intro.html)|[![](https://github-readme-stats-goku.vercel.app/api/pin/?username=daniel-rojsanch&repo=Statistics-with-Julia&theme=vue-dark&show_icons=true)](https://daniel-rojsanch.github.io/Statistics-with-Julia/intro.html)|
 |---|---|
 
 
@@ -29,7 +29,7 @@
 
 |[![](https://github-readme-stats.vercel.app/api/pin/?username=daniel-rojsanch&repo=my-shinyApps&theme=vue-dark&show_icons=true)](https://github.com/daniel-rojsanch/my-shinyApps)  | [![](https://github-readme-stats.vercel.app/api/pin/?username=daniel-rojsanch&repo=Statistics-with-R&theme=vue-dark&show_icons=true)](https://github.com/daniel-rojsanch/Statistics-with-R) |
 |--------------|-----------|
-| [![](https://github-readme-stats.vercel.app/api/pin/?username=daniel-rojsanch&repo=XfceConf&theme=vue-dark&show_icons=true)](https://github.com/daniel-rojsanch/XfceConf) | [![](https://github-readme-stats.vercel.app/api/pin/?username=daniel-rojsanch&repo=Gallery-R&theme=vue-dark&show_icons=true)](https://github.com/daniel-rojsanch/GraficosR) |
+| [![](https://github-readme-stats.vercel-goku.app/api/pin/?username=daniel-rojsanch&repo=XfceConf&theme=vue-dark&show_icons=true)](https://github.com/daniel-rojsanch/XfceConf) | [![](https://github-readme-stats.vercel.app/api/pin/?username=daniel-rojsanch&repo=Gallery-R&theme=vue-dark&show_icons=true)](https://github.com/daniel-rojsanch/GraficosR) |
 
 
 
