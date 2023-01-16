@@ -27,7 +27,7 @@
 
 ### 🚀 Top repos
 
-|[![](https://github-readme-stats.vercel-goku.app/api/pin/?username=daniel-rojsanch&repo=my-shinyApps&theme=vue-dark&show_icons=true)](https://github.com/daniel-rojsanch/my-shinyApps)  | [![](https://github-readme-stats-goku.vercel.app/api/pin/?username=daniel-rojsanch&repo=Statistics-with-R&theme=vue-dark&show_icons=true)](https://github.com/daniel-rojsanch/Statistics-with-R) |
+|[![](https://github-readme-stats.vercel-goku.app/api/pin/?username=daniel-rojsanch&repo=my-shinyApps&theme=dracula&show_icons=true)](https://github.com/daniel-rojsanch/my-shinyApps)  | [![](https://github-readme-stats-goku.vercel.app/api/pin/?username=daniel-rojsanch&repo=Statistics-with-R&theme=dracula&show_icons=true)](https://github.com/daniel-rojsanch/Statistics-with-R) |
 |--------------|-----------|
 | [![](https://github-readme-stats.vercel-goku.app/api/pin/?username=daniel-rojsanch&repo=XfceConf&theme=vue-dark&show_icons=true)](https://github.com/daniel-rojsanch/XfceConf) | [![](https://github-readme-stats.vercel-goku.app/api/pin/?username=daniel-rojsanch&repo=Gallery-R&theme=vue-dark&show_icons=true)](https://github.com/daniel-rojsanch/GraficosR) |
 
