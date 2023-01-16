@@ -36,7 +36,7 @@
 
 > *NOTE: Top Languages does not indicate my skill level or anything like that; it's a GitHub metric to determine which languages have the most code on GitHub. It's a new feature of github-readme-stats.*
 
-| [![Top Langs](https://github-readme-stats-goku.vercel.app/api/top-langs/?username=daniel-rojsanch&layout=compact&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats) | ![Anurag's GitHub stats](https://github-readme-stats-goku.vercel.app/api?username=daniel-rojsanch&show_icons=true&theme=codeSTACKr) |
+| [![Top Langs](https://github-readme-stats-goku.vercel.app/api/top-langs/?username=daniel-rojsanch&layout=compact&theme=codeSTACKr&hide=jupyter%20notebook,html,css)](https://github.com/anuraghazra/github-readme-stats) | ![Anurag's GitHub stats](https://github-readme-stats-goku.vercel.app/api?username=daniel-rojsanch&show_icons=true&theme=codeSTACKr) |
 |-----|-----|
 <!--[](./profile-3d-contrib/profile-season-animate.svg)-->
 
