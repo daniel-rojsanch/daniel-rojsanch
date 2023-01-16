@@ -27,9 +27,9 @@
 
 ### 🚀 Top repos
 
-|[![](https://github-readme-stats.vercel.app/api/pin/?username=daniel-rojsanch&repo=my-shinyApps&theme=vue-dark&show_icons=true)](https://github.com/daniel-rojsanch/my-shinyApps)  | [![](https://github-readme-stats.vercel.app/api/pin/?username=daniel-rojsanch&repo=Statistics-with-R&theme=vue-dark&show_icons=true)](https://github.com/daniel-rojsanch/Statistics-with-R) |
+|[![](https://github-readme-stats.vercel-goku.app/api/pin/?username=daniel-rojsanch&repo=my-shinyApps&theme=vue-dark&show_icons=true)](https://github.com/daniel-rojsanch/my-shinyApps)  | [![](https://github-readme-stats-goku.vercel.app/api/pin/?username=daniel-rojsanch&repo=Statistics-with-R&theme=vue-dark&show_icons=true)](https://github.com/daniel-rojsanch/Statistics-with-R) |
 |--------------|-----------|
-| [![](https://github-readme-stats.vercel-goku.app/api/pin/?username=daniel-rojsanch&repo=XfceConf&theme=vue-dark&show_icons=true)](https://github.com/daniel-rojsanch/XfceConf) | [![](https://github-readme-stats.vercel.app/api/pin/?username=daniel-rojsanch&repo=Gallery-R&theme=vue-dark&show_icons=true)](https://github.com/daniel-rojsanch/GraficosR) |
+| [![](https://github-readme-stats.vercel-goku.app/api/pin/?username=daniel-rojsanch&repo=XfceConf&theme=vue-dark&show_icons=true)](https://github.com/daniel-rojsanch/XfceConf) | [![](https://github-readme-stats.vercel-goku.app/api/pin/?username=daniel-rojsanch&repo=Gallery-R&theme=vue-dark&show_icons=true)](https://github.com/daniel-rojsanch/GraficosR) |
 
 
 
@@ -40,11 +40,6 @@
 |-----------|---------------|
 > *NOTE: Top Languages does not indicate my skill level or anything like that; it's a GitHub metric to determine which languages have the most code on GitHub. It's a new feature of github-readme-stats.*
 
-### My Courses
-
-|||
-|---|---|
-|[![1curso](images/cursos_R.png)](https://coursera.org/share/8f06b11cef8256004cd12e5530af8266)|[![1curso](images/cursos_R.png)](https://coursera.org/share/8f06b11cef8256004cd12e5530af8266)|
 
 <!--[](./profile-3d-contrib/profile-season-animate.svg)-->
 
