@@ -21,25 +21,22 @@
 
 ### 📙 My Books
 
-|[![](https://github-readme-stats-goku.vercel.app/api/pin/?username=daniel-rojsanch&repo=50-Ejemplos-Graficos-con-R&theme=vue-dark&show_icons=true)](https://daniel-rojsanch.github.io/50-Ejemplos-Graficos-con-R/intro.html)|[![](https://github-readme-stats-goku.vercel.app/api/pin/?username=daniel-rojsanch&repo=Statistics-with-Julia&theme=vue-dark&show_icons=true)](https://daniel-rojsanch.github.io/Statistics-with-Julia/intro.html)|
+|[![](https://github-readme-stats-goku.vercel.app/api/pin/?username=daniel-rojsanch&repo=50-Ejemplos-Graficos-con-R&theme=codeSTACKr&show_icons=true)](https://daniel-rojsanch.github.io/50-Ejemplos-Graficos-con-R/intro.html)|[![](https://github-readme-stats-goku.vercel.app/api/pin/?username=daniel-rojsanch&repo=Statistics-with-Julia&theme=codeSTACKr&show_icons=true)](https://daniel-rojsanch.github.io/Statistics-with-Julia/intro.html)|
 |---|---|
 
 
 ### 🚀 Top repos
-
-|[![](https://github-readme-stats.vercel-goku.app/api/pin/?username=daniel-rojsanch&repo=my-shinyApps&theme=dracula&show_icons=true)](https://github.com/daniel-rojsanch/my-shinyApps)  | [![](https://github-readme-stats-goku.vercel.app/api/pin/?username=daniel-rojsanch&repo=Statistics-with-R&theme=dracula&show_icons=true)](https://github.com/daniel-rojsanch/Statistics-with-R) |
-|--------------|-----------|
-| [![](https://github-readme-stats.vercel-goku.app/api/pin/?username=daniel-rojsanch&repo=XfceConf&theme=vue-dark&show_icons=true)](https://github.com/daniel-rojsanch/XfceConf) | [![](https://github-readme-stats.vercel-goku.app/api/pin/?username=daniel-rojsanch&repo=Gallery-R&theme=vue-dark&show_icons=true)](https://github.com/daniel-rojsanch/GraficosR) |
+| [![](https://github-readme-stats-goku.vercel.app/api/pin/?username=daniel-rojsanch&repo=my-shinyApps&theme=codeSTACKr&show_icons=true&show_owner=true)](https://github.com/daniel-rojsanch/my-shinyApps) | [![](https://github-readme-stats-goku.vercel.app/api/pin/?username=daniel-rojsanch&repo=Statistics-with-R&theme=codeSTACKr&show_icons=true&show_owner=true)](https://github.com/daniel-rojsanch/Statistics-with-R) |
+|---------|--------|
+| [![](https://github-readme-stats-goku.vercel.app/api/pin/?username=daniel-rojsanch&repo=XfceConf&theme=codeSTACKr&show_icons=true&show_owner=true)](https://github.com/daniel-rojsanch/XfceConf) | [![](https://github-readme-stats-goku.vercel.app/api/pin/?username=daniel-rojsanch&repo=Gallery-R&theme=codeSTACKr&show_icons=true&show_owner=true)](https://github.com/daniel-rojsanch/GraficosR) |
 
 
 
 ### :bar_chart: My Stats
 
-
-| [![](https://github-readme-stats-goku.vercel.app/api/top-langs/?username=daniel-rojsanch&hide=javascript,html,css,shell&layout=compact&theme=vue-dark&exclude_repo=50-Ejemplos-Graficos-con-R,Statistics-with-Julia)](https://github.com/anuraghazra/github-readme-stats) | [![](https://github-readme-stats.vercel-goku.app/api?username=daniel-rojsanch&hide_border=false&show_icons=true&theme=onedark&layout=compact&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)|
-|-----------|---------------|
 > *NOTE: Top Languages does not indicate my skill level or anything like that; it's a GitHub metric to determine which languages have the most code on GitHub. It's a new feature of github-readme-stats.*
 
-
+| [![Top Langs](https://github-readme-stats-goku.vercel.app/api/top-langs/?username=daniel-rojsanch&layout=compact&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats) | ![Anurag's GitHub stats](https://github-readme-stats-goku.vercel.app/api?username=daniel-rojsanch&show_icons=true&theme=codeSTACKr) |
+|-----|-----|
 <!--[](./profile-3d-contrib/profile-season-animate.svg)-->
 
