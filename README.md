@@ -2,7 +2,7 @@
   [![Gmail](https://img.shields.io/badge/drojass003@gmail.com-black?style=flat-square&logo=gmail)]()
   [![Telegram](https://img.shields.io/badge/-@daniel__rojsanch-blue?style=flat-square&logo=telegram&logoColor=white)](https://t.me/daniel_rojsanch)
   [![Linkdin](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=linkedin)]()
-  [![Duolingo](https://img.shields.io/badge/-Duo-28B463?style=flat-square&logo=duolingo&logoColor=white)](https://www.duolingo.com/profile/daniel-rojsanch)
+
 ### 🛠️Tools
   ![GNU/Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
   ![Linux](https://img.shields.io/badge/Manjaro-45B39D?style=flat-square&logo=manjaro&logoColor=000b41)
