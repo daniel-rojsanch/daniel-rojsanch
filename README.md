@@ -19,6 +19,15 @@
   ![Julia](https://img.shields.io/badge/Julia-E8EAF6?style=flat-square&logo=Julia&logoColor=28B463)
   ![Markdown](https://img.shields.io/badge/Markdown-black?style=flat-square&logo=Markdown)
 
+
+### :bar_chart: My Stats
+
+> *NOTE: Top Languages does not indicate my skill level or anything like that; it's a GitHub metric to determine which languages have the most code on GitHub. It's a new feature of github-readme-stats.*
+
+| [![Top Langs](https://github-readme-stats-goku.vercel.app/api/top-langs/?username=daniel-rojsanch&layout=compact&theme=codeSTACKr&hide=jupyter%20notebook,html,css)](https://github.com/anuraghazra/github-readme-stats) | ![Anurag's GitHub stats](https://github-readme-stats-goku.vercel.app/api?username=daniel-rojsanch&show_icons=true&theme=codeSTACKr) |
+|-----|-----|
+<!--[](./profile-3d-contrib/profile-season-animate.svg)-->
+
 ### 📙 My Books
 
 |[![](https://github-readme-stats-goku.vercel.app/api/pin/?username=daniel-rojsanch&repo=50-Ejemplos-Graficos-con-R&theme=codeSTACKr&show_icons=true)](https://daniel-rojsanch.github.io/50-Ejemplos-Graficos-con-R/intro.html)|[![](https://github-readme-stats-goku.vercel.app/api/pin/?username=daniel-rojsanch&repo=Statistics-with-Julia&theme=codeSTACKr&show_icons=true)](https://daniel-rojsanch.github.io/Statistics-with-Julia/intro.html)|
@@ -30,13 +39,4 @@
 |---------|--------|
 | [![](https://github-readme-stats-goku.vercel.app/api/pin/?username=daniel-rojsanch&repo=XfceConf&theme=codeSTACKr&show_icons=true&show_owner=true)](https://github.com/daniel-rojsanch/XfceConf) | [![](https://github-readme-stats-goku.vercel.app/api/pin/?username=daniel-rojsanch&repo=Gallery-R&theme=codeSTACKr&show_icons=true&show_owner=true)](https://github.com/daniel-rojsanch/GraficosR) |
 
-
-
-### :bar_chart: My Stats
-
-> *NOTE: Top Languages does not indicate my skill level or anything like that; it's a GitHub metric to determine which languages have the most code on GitHub. It's a new feature of github-readme-stats.*
-
-| [![Top Langs](https://github-readme-stats-goku.vercel.app/api/top-langs/?username=daniel-rojsanch&layout=compact&theme=codeSTACKr&hide=jupyter%20notebook,html,css)](https://github.com/anuraghazra/github-readme-stats) | ![Anurag's GitHub stats](https://github-readme-stats-goku.vercel.app/api?username=daniel-rojsanch&show_icons=true&theme=codeSTACKr) |
-|-----|-----|
-<!--[](./profile-3d-contrib/profile-season-animate.svg)-->
 
