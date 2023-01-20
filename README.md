@@ -1,4 +1,5 @@
 ### ✏️ Hi!, I'm Daniel
+  ![visitors](https://visitor-badge.glitch.me/badge?page_id=daniel-rojsanch.daniel-rojsanch&left_color=yellow&right_color=blue)
   [![Gmail](https://img.shields.io/badge/drojass003@gmail.com-black?style=flat-square&logo=gmail)]()
   [![Telegram](https://img.shields.io/badge/-@daniel__rojsanch-blue?style=flat-square&logo=telegram&logoColor=white)](https://t.me/daniel_rojsanch)
   [![Linkdin](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=linkedin)]()
