@@ -7,7 +7,6 @@
 ### 🛠️Tools
   ![GNU/Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
   ![Linux](https://img.shields.io/badge/Manjaro-45B39D?style=flat-square&logo=manjaro&logoColor=000b41)
-  ![Linux](https://img.shields.io/badge/Ubuntu-DC7633?style=flat-square&logo=ubuntu&logoColor=white)
   ![VS Code](https://img.shields.io/badge/-VS%20Code-2E86C1?style=flat-square&logo=visual-studio-code)
   ![Git](https://img.shields.io/badge/-Git-181717?style=flat-square&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
@@ -39,5 +38,3 @@
 | [![](https://github-readme-stats-goku.vercel.app/api/pin/?username=daniel-rojsanch&repo=my-shinyApps&theme=codeSTACKr&show_icons=true&show_owner=true)](https://github.com/daniel-rojsanch/my-shinyApps) | [![](https://github-readme-stats-goku.vercel.app/api/pin/?username=daniel-rojsanch&repo=Statistics-with-R&theme=codeSTACKr&show_icons=true&show_owner=true)](https://github.com/daniel-rojsanch/Statistics-with-R) |
 |---------|--------|
 | [![](https://github-readme-stats-goku.vercel.app/api/pin/?username=daniel-rojsanch&repo=XfceConf&theme=codeSTACKr&show_icons=true&show_owner=true)](https://github.com/daniel-rojsanch/XfceConf) | [![](https://github-readme-stats-goku.vercel.app/api/pin/?username=daniel-rojsanch&repo=Gallery-R&theme=codeSTACKr&show_icons=true&show_owner=true)](https://github.com/daniel-rojsanch/GraficosR) |
-
-
