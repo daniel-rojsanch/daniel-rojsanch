@@ -21,3 +21,11 @@
 | [![](https://github-readme-stats-goku.vercel.app/api/pin/?username=daniel-rojsanch&repo=my-shinyApps&theme=codeSTACKr&show_icons=true&show_owner=true)](https://github.com/daniel-rojsanch/my-shinyApps) | [![](https://github-readme-stats-goku.vercel.app/api/pin/?username=daniel-rojsanch&repo=Statistics-with-R&theme=codeSTACKr&show_icons=true&show_owner=true)](https://github.com/daniel-rojsanch/Statistics-with-R) |
 |---------|--------|
 | [![](https://github-readme-stats-goku.vercel.app/api/pin/?username=daniel-rojsanch&repo=XfceConf&theme=codeSTACKr&show_icons=true&show_owner=true)](https://github.com/daniel-rojsanch/XfceConf) | [![](https://github-readme-stats-goku.vercel.app/api/pin/?username=daniel-rojsanch&repo=Gallery-R&theme=codeSTACKr&show_icons=true&show_owner=true)](https://github.com/daniel-rojsanch/GraficosR) |
+
+
+<details>
+  <summary>Click👆</summary>
+  <pre>
+  🤷‍♂️
+  </pre>
+</details>
