@@ -14,7 +14,7 @@
 
 ### 📙 My Books
 
-|[![](https://github-readme-stats-goku.vercel.app/api/pin/?username=daniel-rojsanch&repo=50-Ejemplos-Graficos-con-R&theme=codeSTACKr&show_icons=true)](https://daniel-rojsanch.github.io/50-Ejemplos-Graficos-con-R/intro.html)|[![](https://github-readme-stats-goku.vercel.app/api/pin/?username=daniel-rojsanch&repo=Statistics-with-Julia&theme=codeSTACKr&show_icons=true)](https://daniel-rojsanch.github.io/Statistics-with-Julia/intro.html)|
+|[![](images/rrr.png)](https://daniel-rojsanch.github.io/50-Ejemplos-Graficos-con-R/intro.html)|[![](https://github-readme-stats-goku.vercel.app/api/pin/?username=daniel-rojsanch&repo=Statistics-with-Julia&theme=codeSTACKr&show_icons=true)](https://daniel-rojsanch.github.io/Statistics-with-Julia/intro.html)|
 |---|---|
 
 
