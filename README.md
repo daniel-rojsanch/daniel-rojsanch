@@ -36,5 +36,5 @@
 |||🎮 [**Play-with-Julia**](https://github.com/daniel-rojsanch/Play-with-Julia)|
 |||🌻 [**Statistics with R**](https://github.com/daniel-rojsanch/Statistics-wit)|
 | ❓ **cheat sheet** | | |
-| [**SQL**](https://learnsql.com/blog/sql-basics-cheat-sheet/sql-basics-cheat-sheet-a4.pdf) / [**dplyr**](https://www.rstudio.com/wp-content/uploads/2015/02/data-wrangling-cheatsheet.pdf) / [**Shiny**](https://shiny.rstudio.com/images/shiny-cheatsheet.pdf)| | |
+| [**SQL**](https://learnsql.com/blog/sql-basics-cheat-sheet/sql-basics-cheat-sheet-a4.pdf) / [**dplyr**](https://www.rstudio.com/wp-content/uploads/2015/02/data-wrangling-cheatsheet.pdf) / [**Shiny**](https://shiny.rstudio.com/images/shiny-cheatsheet.pdf)| | 🪲 [**Gallery *R***](https://github.com/daniel-rojsanch/Gallery-R)|
 
