@@ -27,16 +27,14 @@
 |-----|-----|
 <!--[](./profile-3d-contrib/profile-season-animate.svg)-->
 
-### 📙 My Books
+### 📌 My Projects
 
-- [🐯 **Ejemplos Graficos con R**: ](https://daniel-rojsanch.github.io/50-Ejemplos-Graficos-con-R/intro.html)
-- [🐧 **Statistics with Julia**: ](https://daniel-rojsanch.github.io/Statistics-with-Julia/intro.html)
-
-
-
-### 🚀 Top repos
-| [![](https://github-readme-stats-goku.vercel.app/api/pin/?username=daniel-rojsanch&repo=my-shinyApps&theme=codeSTACKr&show_icons=true&show_owner=true)](https://github.com/daniel-rojsanch/my-shinyApps) | [![](https://github-readme-stats-goku.vercel.app/api/pin/?username=daniel-rojsanch&repo=Statistics-with-R&theme=codeSTACKr&show_icons=true&show_owner=true)](https://github.com/daniel-rojsanch/Statistics-with-R) |
-|---------|--------|
-| [![](https://github-readme-stats-goku.vercel.app/api/pin/?username=daniel-rojsanch&repo=XfceConf&theme=codeSTACKr&show_icons=true&show_owner=true)](https://github.com/daniel-rojsanch/XfceConf) | [![](https://github-readme-stats-goku.vercel.app/api/pin/?username=daniel-rojsanch&repo=Gallery-R&theme=codeSTACKr&show_icons=true&show_owner=true)](https://github.com/daniel-rojsanch/GraficosR) |
-
+| 📙 Books| 🎸 Shiny Apps | 🚀 Top Repos |
+|----------|----------------|--------------|
+|[🐯 **Ejemplos Graficos con R**](https://daniel-rojsanch.github.io/50-Ejemplos-Graficos-con-R/intro.html)|🐸 [**Radar Pokeon**](https://daniel-rojsanch.shinyapps.io/radar_pokemon/)| 🐵 [**Luffy CV**](https://github.com/daniel-rojsanch/Luffy-awesome-cv) |
+|[🐧 **Statistics with Julia**: ](https://daniel-rojsanch.github.io/Statistics-with-Julia/intro.html) |  | 🌔 [**Dracula Theme R**](https://github.com/daniel-rojsanch/dracula-theme-R)  |
+|||🎮 [**Play-with-Julia**](https://github.com/daniel-rojsanch/Play-with-Julia)|
+|||🌻 [**Statistics with R**](https://github.com/daniel-rojsanch/Statistics-wit)|
+| ❓ **cheat sheet** | | |
+| [**SQL**](https://learnsql.com/blog/sql-basics-cheat-sheet/sql-basics-cheat-sheet-a4.pdf) / [**dplyr**](https://www.rstudio.com/wp-content/uploads/2015/02/data-wrangling-cheatsheet.pdf) / [**Shiny**](https://shiny.rstudio.com/images/shiny-cheatsheet.pdf)| | |
 
