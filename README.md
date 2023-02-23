@@ -29,9 +29,6 @@
 
 ### 📌 My Projects
 
-[<img align="right" src="https://github.com/daniel-rojsanch/R-corazon/blob/main/corazon.gif" width="150" height="150">](https://raw.githubusercontent.com/daniel-rojsanch/R-corazon/main/Corazon.R)
-
-
 | 📙 Books| 🎸 Shiny Apps | 🚀 Top Repos |
 |----------|----------------|--------------|
 |[📗 **Ejemplos Graficos con R**](https://daniel-rojsanch.github.io/50-Ejemplos-Graficos-con-R/intro.html)|🐸 [**Radar Pokeon**](https://daniel-rojsanch.shinyapps.io/radar_pokemon/)| 🐵 [**Luffy CV**](https://github.com/daniel-rojsanch/Luffy-awesome-cv) |
