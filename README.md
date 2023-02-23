@@ -29,7 +29,7 @@
 
 ### 📌 My Projects
 
-[<img align="right" src="https://github.com/daniel-rojsanch/R-corazon/blob/main/corazon.gif" width="250" height="250">](https://raw.githubusercontent.com/daniel-rojsanch/R-corazon/main/Corazon.R)
+[<img align="right" src="https://github.com/daniel-rojsanch/R-corazon/blob/main/corazon.gif" width="150" height="150">](https://raw.githubusercontent.com/daniel-rojsanch/R-corazon/main/Corazon.R)
 
 
 | 📙 Books| 🎸 Shiny Apps | 🚀 Top Repos |
