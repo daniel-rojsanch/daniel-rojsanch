@@ -29,6 +29,8 @@
 
 ### 📌 My Projects
 
+<img src="https://cdn.dribbble.com/users/1826179/screenshots/7638794/media/637bd482324ea9a3f19828905151c36a.gif" align="right" width="200" height="200">
+
 | 📙 Books| 🎸 Shiny Apps | 🚀 Top Repos |
 |----------|----------------|--------------|
 |[📗 **Ejemplos Graficos con R**](https://daniel-rojsanch.github.io/50-Ejemplos-Graficos-con-R/intro.html)|🐸 [**Radar Pokeon**](https://daniel-rojsanch.shinyapps.io/radar_pokemon/)| 🐵 [**Luffy CV**](https://github.com/daniel-rojsanch/Luffy-awesome-cv) |
