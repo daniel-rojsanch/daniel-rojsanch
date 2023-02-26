@@ -29,7 +29,6 @@
 
 ### 📌 My Projects
 
-<img src="https://cdn.dribbble.com/users/1826179/screenshots/7638794/media/637bd482324ea9a3f19828905151c36a.gif" align="right" width="200" height="200">
 
 | 📙 Books| 🎸 Shiny Apps | 🚀 Top Repos |
 |----------|----------------|--------------|
