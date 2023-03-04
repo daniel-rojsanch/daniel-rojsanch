@@ -5,15 +5,7 @@
 
 ## **🛠️ Tools**  
   
-<img height="32" width="32" src="https://cdn.simpleicons.org/R" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/Julia" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/LaTeX" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/MySQL" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/Markdown" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/VisualStudioCode" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/Jupyter" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/PowerBi" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/Linux/000000" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/R" /> <img height="32" width="32" src="https://cdn.simpleicons.org/Julia" /> <img height="32" width="32" src="https://cdn.simpleicons.org/LaTeX" /> <img height="32" width="32" src="https://cdn.simpleicons.org/MySQL" /> <img height="32" width="32" src="https://cdn.simpleicons.org/Markdown" /> <img height="32" width="32" src="https://cdn.simpleicons.org/VisualStudioCode" /> <img height="32" width="32" src="https://cdn.simpleicons.org/Jupyter" /> <img height="32" width="32" src="https://cdn.simpleicons.org/PowerBi" /> <img height="32" width="32" src="https://cdn.simpleicons.org/Linux/000000" />
 
 
 ### :bar_chart: My Stats
