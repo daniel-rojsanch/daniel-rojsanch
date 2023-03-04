@@ -21,8 +21,8 @@
 
 | 📙 Books| 🎸 Shiny Apps | 🚀 Top Repos |
 |----------|----------------|--------------|
-|[📗 **Ejemplos Graficos con R**](https://daniel-rojsanch.github.io/50-Ejemplos-Graficos-con-R/intro.html)|🐸 [**Radar Pokeon**](https://daniel-rojsanch.shinyapps.io/radar_pokemon/)| 🐵 [**Luffy CV**](https://github.com/daniel-rojsanch/Luffy-awesome-cv) |
-|[📗 **Statistics with Julia** ](https://daniel-rojsanch.github.io/Statistics-with-Julia/intro.html) |   | 🌔 [**Dracula Theme R**](https://github.com/daniel-rojsanch/dracula-theme-R)  |
+|[Ejemplos Graficos con R](https://daniel-rojsanch.github.io/50-Ejemplos-Graficos-con-R/intro.html)|🐸 [**Radar Pokeon**](https://daniel-rojsanch.shinyapps.io/radar_pokemon/)| 🐵 [**Luffy CV**](https://github.com/daniel-rojsanch/Luffy-awesome-cv) |
+|[Statistics with Julia ](https://daniel-rojsanch.github.io/Statistics-with-Julia/intro.html) |   | 🌔 [**Dracula Theme R**](https://github.com/daniel-rojsanch/dracula-theme-R)  |
 ||  |🎮 [**Play-with-Julia**](https://github.com/daniel-rojsanch/Play-with-Julia)|
 |❓ **cheat sheet** | 🍕 **New challenges**  |🌻 [**Statistics with R**](https://github.com/daniel-rojsanch/Statistics-wit) / 🪲 [**Gallery *R***](https://github.com/daniel-rojsanch/Gallery-R)|
 | [**SQL**](https://learnsql.com/blog/sql-basics-cheat-sheet/sql-basics-cheat-sheet-a4.pdf) / [**dplyr**](https://www.rstudio.com/wp-content/uploads/2015/02/data-wrangling-cheatsheet.pdf) / [**Shiny**](https://shiny.rstudio.com/images/shiny-cheatsheet.pdf) | ```😎 machine learning```  |  |
