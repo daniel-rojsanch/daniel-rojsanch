@@ -1,6 +1,6 @@
 ## ✏️ **Hi!, I'm Daniel** ![visitors](https://visitor-badge.glitch.me/badge?page_id=daniel-rojsanch.daniel-rojsanch&left_color=yellow&right_color=blue)
 
-  <a href = "https://www.linkedin.com/in/daniel-rojsanch/"> <img height="32" width="32" src="https://cdn.simpleicons.org/LinkedIn" /></a> <a href = "daniel.rojsanch@gmail.com"><img height="32" width="32" src="https://cdn.simpleicons.org/Gmail" /> </a> <a href = "https://t.me/daniel_rojsanch"><img height="32" width="32" src="https://cdn.simpleicons.org/Telegram" /> </a>
+  <a href = "https://www.linkedin.com/in/daniel-rojsanch/"> <img height="32" width="32" src="https://cdn.simpleicons.org/LinkedIn" /></a> <a href = "mailto:daniel.rojsanch@gmail.com"><img height="32" width="32" src="https://cdn.simpleicons.org/Gmail" /> </a> <a href = "https://t.me/daniel_rojsanch"><img height="32" width="32" src="https://cdn.simpleicons.org/Telegram" /> </a>
 
 
 ## **🛠️ Tools**  
