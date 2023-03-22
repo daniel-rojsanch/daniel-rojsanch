@@ -9,7 +9,7 @@
 
 > *NOTE: Top Languages does not indicate my skill level or anything like that; it's a GitHub metric to determine which languages have the most code on GitHub. It's a new feature of github-readme-stats.*
 
-[![Top Langs](https://github-readme-stats-goku.vercel.app/api/top-langs/?username=daniel-rojsanch&layout=compact&hide=jupyter%20notebook,html,css&theme=flag-india#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)[![Top Langs](https://github-readme-stats-goku.vercel.app/api/top-langs/?username=daniel-rojsanch&layout=compact&hide=jupyter%20notebook,html,css&theme=transparent#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)[![Anurag's GitHub stats](https://github-readme-stats-goku.vercel.app/api?username=daniel-rojsanch&show_icons=true&theme=buefy#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only) [![Anurag's GitHub stats](https://github-readme-stats-goku.vercel.app/api?username=daniel-rojsanch&show_icons=true&theme=transparent#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only) 
+[![Top Langs](https://github-readme-stats-goku.vercel.app/api/top-langs/?username=daniel-rojsanch&layout=compact&hide=jupyter%20notebook,html,css,javascript&theme=buefy#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)[![Top Langs](https://github-readme-stats-goku.vercel.app/api/top-langs/?username=daniel-rojsanch&layout=compact&hide=jupyter%20notebook,html,css,javascript&theme=transparent#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)[![Anurag's GitHub stats](https://github-readme-stats-goku.vercel.app/api?username=daniel-rojsanch&show_icons=true&theme=buefy#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only) [![Anurag's GitHub stats](https://github-readme-stats-goku.vercel.app/api?username=daniel-rojsanch&show_icons=true&theme=transparent#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only) 
 
 <!--[](./profile-3d-contrib/profile-season-animate.svg)-->
 
@@ -30,7 +30,7 @@
 - [*🌵Statistics with R*](https://github.com/daniel-rojsanch/Statistics-wit)
 - [*Gallery R*](https://github.com/daniel-rojsanch/Gallery-R)
 - [*💥Power Bi*](https://github.com/daniel-rojsanch/Power-Bi)
-#### 🍕 cheat sheet** 
+#### 🍕 cheat sheet 
 - [*SQL*](https://learnsql.com/blog/sql-basics-cheat-sheet/sql-basics-cheat-sheet-a4.pdf) 
 - [*dplyr*](https://www.rstudio.com/wp-content/uploads/2015/02/data-wrangling-cheatsheet.pdf) 
 - [*Shiny*](https://shiny.rstudio.com/images/shiny-cheatsheet.pdf)
