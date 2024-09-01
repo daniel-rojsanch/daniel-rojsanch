@@ -1,9 +1,6 @@
 # 🤖 Welcome !! 
 
-|<a href = "https://www.linkedin.com/in/daniel-rojsanch/"> <img height="32" width="32" src="https://cdn.simpleicons.org/LinkedIn" /></a> <a href = "mailto:daniel.rojsanch@gmail.com"><img height="32" width="32" src="https://cdn.simpleicons.org/Gmail" /> </a> <a href = "https://t.me/daniel_rojsanch"><img height="32" width="32" src="https://cdn.simpleicons.org/Telegram" /> </a>|<img height="32" width="32" src="https://cdn.simpleicons.org/R" /> <img height="32" width="32" src="https://cdn.simpleicons.org/Julia" /> <img height="32" width="32" src="https://cdn.simpleicons.org/LaTeX" /> <img height="32" width="32" src="https://cdn.simpleicons.org/MySQL/2196F3" /> <img height="32" width="32" src="https://cdn.simpleicons.org/VisualStudioCode" /> <img height="32" width="32" src="https://cdn.simpleicons.org/Jupyter" /> <img height="32" width="32" src="https://cdn.simpleicons.org/PowerBi" /> <img height="32" width="32" src="https://cdn.simpleicons.org/Linux/000000" />|
-|---|---|
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=daniel-rojsanch.daniel-rojsanch&left_color=yellow&right_color=blue)
 
 ### :bar_chart: My Stats
 
@@ -12,6 +9,10 @@
 [![Top Langs](https://github-readme-stats-goku.vercel.app/api/top-langs/?username=daniel-rojsanch&layout=compact&hide=jupyter%20notebook,html,css,javascript&theme=buefy#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)[![Top Langs](https://github-readme-stats-goku.vercel.app/api/top-langs/?username=daniel-rojsanch&layout=compact&hide=jupyter%20notebook,html,css,javascript&theme=buefyk#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)[![Anurag's GitHub stats](https://github-readme-stats-goku.vercel.app/api?username=daniel-rojsanch&show_icons=true&theme=buefy#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only) [![Anurag's GitHub stats](https://github-readme-stats-goku.vercel.app/api?username=daniel-rojsanch&show_icons=true&theme=buefy#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only) 
 
 <!--[](./profile-3d-contrib/profile-season-animate.svg)-->
+
+|<a href = "https://www.linkedin.com/in/daniel-rojsanch/"> <img height="32" width="32" src="https://cdn.simpleicons.org/LinkedIn" /></a> <a href = "mailto:daniel.rojsanch@gmail.com"><img height="32" width="32" src="https://cdn.simpleicons.org/Gmail" /> </a> <a href = "https://t.me/daniel_rojsanch"><img height="32" width="32" src="https://cdn.simpleicons.org/Telegram" /> </a>|<img height="32" width="32" src="https://cdn.simpleicons.org/R" /> <img height="32" width="32" src="https://cdn.simpleicons.org/Julia" /> <img height="32" width="32" src="https://cdn.simpleicons.org/LaTeX" /> <img height="32" width="32" src="https://cdn.simpleicons.org/MySQL/2196F3" /> <img height="32" width="32" src="https://cdn.simpleicons.org/VisualStudioCode" /> <img height="32" width="32" src="https://cdn.simpleicons.org/Jupyter" /> <img height="32" width="32" src="https://cdn.simpleicons.org/PowerBi" /> <img height="32" width="32" src="https://cdn.simpleicons.org/Linux/000000" />|
+|---|---|
+
 
 ### 📌 My Projects
 
